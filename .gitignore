@@ -1,0 +1,14 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+
+client/dist/
+
+server/.env
+server/session.json
+
+*.log
+dev-server.*.log
+
+.DS_Store
+Thumbs.db
